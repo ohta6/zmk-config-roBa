@@ -75,7 +75,7 @@
             bindings = <
 &kp MINUS        &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp PLUS                                                &kp BACKSLASH     &kp PIPE           &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp GRAVE
 &kp SLASH        &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp ASTERISK       &kp LC(LA(KP_NUMBER_0))      &trans  &kp LEFT_ARROW    &kp DOWN_ARROW     &kp UP_ARROW      &kp RIGHT_ARROW    &kp EQUAL
-&mt LEFT_SHIFT   &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp KP_NUMBER_0    &kp EQUAL                    &trans  &kp PLUS          &kp ASTERISK       &kp COMMA         &kp DOT            &kp SLASH
+&kp LEFT_SHIFT   &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp KP_NUMBER_0    &kp EQUAL                    &trans  &kp PLUS          &kp ASTERISK       &kp COMMA         &kp DOT            &kp SLASH
 &trans           &trans           &trans           &trans           &trans             &trans                       &trans  &trans                                                                    &kp ESCAPE
             >;
         };
