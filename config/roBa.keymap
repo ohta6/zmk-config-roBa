@@ -79,8 +79,8 @@
         default_layer {
             bindings = <
 &kp Q      &kp W         &kp E         &kp R                 &kp T                                                    &kp Y             &kp U    &kp I     &kp O     &kp P
-&kp A      &kp S         &kp D         &kp F                 &kp G      &kp LS(LG(S))             &kp JP_HANZEN           &kp H             &kp J    &kp K     &kp L     &kp MINUS
-&kp Z      &kp X         &kp C         &kp V                 &kp B      &kp COLON                 &kp SEMICOLON       &kp N             &lt 5 M  &mkp MB1  &mkp MB3  &mkp MB2
+&kp A      &kp S         &kp D         &kp F                 &kp G      &kp PAGE_UP            &kp  LA(TAB)          &kp H             &kp J    &kp K     &kp L     &kp MINUS
+&kp Z      &kp X         &kp C         &kp V                 &kp B      &kp PAGE_DOWN          &kp LS(LG(S))       &kp N             &lt 5 M  &mkp MB1  &mkp MB3  &mkp MB2
 &kp LCTRL  &kp LEFT_WIN  &kp LEFT_ALT  &mt LCTRL JP_EISU  &lt 1 TAB  &mt LEFT_SHIFT SPACE      &mt LEFT_ALT ENTER  &lt 2 JP_KANA                               &kp ESCAPE
             >;
 
