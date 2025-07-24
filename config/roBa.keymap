@@ -90,7 +90,7 @@
         default_layer {
             bindings = <
 &kp Q      &kp W         &kp E         &kp R                 &kp T                                                    &kp Y             &kp U    &kp I     &kp O     &kp P
-&kp A      &kp S         &kp D         &kp F                 &kp G      &kp LG(LS(LEFT_ARROW))           &kp LG(LS(RIGHT_ARROW))          &kp H             &kp J    &kp K     &kp L     &kp MINUS
+&kp A      &kp S         &kp D         &kp F                 &kp G      &kp LG(LC(LA(LEFT_ARROW)))           &kp LG(LS(LA(RIGHT_ARROW)))          &kp H             &kp J    &kp K     &kp L     &kp MINUS
 &kp Z      &kp X         &kp C         &kp V                 &kp B      &kp LG(LC(LEFT_ARROW))          &kp LG(LC(RIGHT_ARROW))       &kp N             &lt 5 M  &mkp MB1  &mkp MB3  &mkp MB2
 &kp LS(LG(S))  &kp LEFT_WIN  &kp LEFT_ALT  &mt LCTRL JP_EISU  &lt 1 TAB  &mt LEFT_SHIFT SPACE      &mt LEFT_ALT ENTER  &lt 2 JP_KANA                               &kp ESCAPE
             >;
